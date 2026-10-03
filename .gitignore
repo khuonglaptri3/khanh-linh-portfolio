@@ -1,0 +1,6 @@
+.preview/
+node_modules/
+artifacts/
+*.zip
+__pycache__/
+787a7d97-00c1-4715-be77-78fdbc3373d9.jpg
